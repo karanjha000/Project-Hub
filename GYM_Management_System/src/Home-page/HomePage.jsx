@@ -6,7 +6,7 @@ import "./HomePage.css";
 const HomePage = () => {
   const greetings = [
     "Welcome Back, Karan!",
-    "Ready to Crush Your Goals?",
+    "Ready to Crush Our Goals?",
     "Unleash Your Beast Part!",
     "Let's Make Today Count!",
     "No Pain, No Gain!",
